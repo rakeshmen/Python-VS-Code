@@ -2,6 +2,12 @@
 Docstring: This is python basics.
 """
 
+# Python data structures
+# Lists: Ordered, mutable collections of items, allowing for duplicates.
+# Tuples: Ordered, immutable collections of items, also allowing for duplicates.
+# Sets: Unordered collections of unique items, not allowing for duplicates.
+# Dictionaries: Unordered collections of key-value pairs, where each key must be unique.
+
 import math
 
 print(math.floor(2.5))
@@ -203,11 +209,3 @@ while i <= 10:
     print(i)
     i = i + 1
 print("here loop exists and value becomes", i)
-
-print("Hello Hello")
-
-print("Henko Hello")
-
-print("Final World")
-
-print("Test Print")
